@@ -81,10 +81,6 @@ or
     - [🥅 Work/Jobs](#-workjobs-)
     - [⏱️ Workflow Platforms](#-workflow-platforms-)
     - [💻 Workspace Spec](#-workspace-spec-)
-  - [🔁 Dynamic](#-dynamic)
-
-- [How To Contribute](#-how-to-contribute-)
-- [Creators](#creators-)
 
 <h2 align='center'>🧑🏼‍🏭 Static</h2>
 
@@ -1044,44 +1040,6 @@ or
 | <img src="https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> | `https://img.shields.io/badge/Windows%20ASUS_Zenbook_3-0078D6?style=for-the-badge&logo=windows&logoColor=white` |
 | <img src="https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white" />           | `https://img.shields.io/badge/xiaomi%20laptop-FF6900?style=for-the-badge&logo=xiaomi&logoColor=white`           |
 
-## 🔁 Dynamic
-Dynamic badges was moved to here: [Badges4-README.md-Profile-Dynamic](https://github.com/alexandresanlim/Badges4-README.md-Profile-Dynamic)
-<br/>
-<br/>
-<br/>
-
-## ✏ How To Contribute [🔝](#menu)
-
-1 - You don't need to make a fork just edit it.
-
-2 - Get an icon and hex color from [Simple Icon](https://simpleicons.org/), if you don't find the desired logo, request it [here](https://github.com/simple-icons/simple-icons/issues/new?assignees=&labels=new+icon&template=icon_request.yml).
-
-3 - Build the URL:
-
+```bash
+THANKS FOR <a href="https://github.com/alexandresanlim"> Alexandre Sanlim </a>
 ```
-https://img.shields.io/badge/{TEXT}-{HEX-COLOR}?style=for-the-badge&logo={LOGO-NAME}&logoColor=white
-```
-
-- {TEXT} = Paste your badge text
-- {HEX-COLOR} = Paste your hex color whithout "#" from Simple Icon
-- {LOGO-NAME} = Logo name from Simple Icon
-
-4 - Paste on category with `Alphabetical` order.
-
-5 - Commit your changes.
-
-## Creators [🔝](#menu)
-
-It's only possible because of [Shields Project](https://github.com/badges/shields), [Simple Icons](https://github.com/simple-icons/simple-icons) & beloved all [Contributors](https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors). We do respect & love our all contributors.
-
-|                                                                                                                                                    Author                                                                                                                                                     |                                                                                                                                     Collaborator                                                                                                                                      |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/alexandresanlim.png?size=115" width=115><br><sub>@alexandresanlim</sub>](https://github.com/alexandresanlim) <br><br> [![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/alexandresanlim) | [<img src="https://github.com/mrhrifat.png?size=250" width=115><br><sub>@mrhrifat</sub>](https://github.com/mrhrifat) <br><br> [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/mrhrifat) |
-
-
-
-## Thanks to all contributors ❤
-
- <a href = "https://github.com/alexandresanlim/Badges4-README.md-Profile/graphs/contributors">
-   <img src = "https://contrib.rocks/image?repo=alexandresanlim/Badges4-README.md-Profile"/>
- </a>
