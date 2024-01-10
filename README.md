@@ -10,7 +10,7 @@
 
 <p align='center'>
   <a href="#">
-  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/alexandresanlim/Badges4-README.md-Profile?style=for-the-badge">
+  <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/codingworld02/Badge-for-design-your-profile?style=for-the-badge">
 </a>&nbsp;&nbsp;
 </p>
 
